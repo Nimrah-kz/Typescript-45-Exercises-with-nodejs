@@ -1,6 +1,6 @@
-//let favoriteNumber: number=4;
-//console.log(`My favorite number is ${favoriteNumber}`);
+let favoriteNumber: number=4;
+console.log(`My favorite number is ${favoriteNumber}`);
 
-//answer 10 
+
 
 
